@@ -1,6 +1,7 @@
 lsi: false
 safe: true
-source: /home/jeongyj/personalProject/danielyj147.github.io/
+Configuration file: /home/jeongyj/personalProject/danielyj147.github.io/_config.yml
+source: /home/jeongyj/personalProject/danielyj147.github.io
 incremental: false
 highlighter: rouge
 gist:
