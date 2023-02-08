@@ -1,11 +1,12 @@
 $font-stack: Helvetica, sans-serif;
-$primary-color: #333;
+$font-color: #F2F2F2;
+$background-color: #222222;
 
 *{
-  background-color: black;
+  background-color: $background-color;
+  color: $font-color;
 }
 
 body {
   font: 100% $font-stack;
-  color: $primary-color;
 }
