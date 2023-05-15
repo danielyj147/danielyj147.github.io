@@ -1,3 +1,6 @@
+name: Daniel Jeong
+description: > # this means to ignore newlines until "baseurl:"
+  I am a student at Colgate University studying Computer Science. I am interested in data science, cyber security and finance.
 lsi: false
 safe: true
 Configuration file: /home/jeongyj/personalProject/danielyj147.github.io/_config.yml
